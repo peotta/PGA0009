@@ -1,6 +1,7 @@
 Disciplina: **PGA0009 - Gestão de Operações de Segurança**  
 Instituição: **Universidade de Brasília (UnB)**  
-Nível: **Especialização (pós-graduação lato sensu)**  
+Curso: **MBA em Privacidade e Segurança da Informação (especialização lato sensu)**  
+Programa: **Programa de Pós-Graduação Profissional em Administração Pública (PGAP)**  
 Unidade: **Faculdade de Administração, Contabilidade, Economia e Gestão de Políticas Públicas (FACE)**  
 Carga horária: **40 horas**  
 Professor Responsável: **Prof. Dr. Laerte Peotta de Melo**
@@ -9,7 +10,7 @@ Professor Responsável: **Prof. Dr. Laerte Peotta de Melo**
 
 # PGA0009 - Gestão de Operações de Segurança
 
-Repositório oficial da disciplina **PGA0009 - Gestão de Operações de Segurança**, oferecida em curso de especialização (pós-graduação *lato sensu*) da FACE/UnB, com foco nos fundamentos da segurança da informação, nos mecanismos de proteção de sistemas e redes e na operação de segurança em ambientes corporativos.
+Repositório oficial da disciplina **PGA0009 - Gestão de Operações de Segurança**, do **MBA em Privacidade e Segurança da Informação** (especialização *lato sensu*), oferecido pelo Programa de Pós-Graduação Profissional em Administração Pública (PGAP) da FACE/UnB, com foco nos fundamentos da segurança da informação, nos mecanismos de proteção de sistemas e redes e na operação de segurança em ambientes corporativos.
 
 ---
 
